@@ -176,5 +176,5 @@ def main():
 if __name__ == "__main__":
     main()
 ```
-   
+Save the file using `Ctrl+O`, press `Enter`, then exit with `Ctrl+X`.
 
